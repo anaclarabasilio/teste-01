@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header > img {
+    margin: auto;
+    display: block;
+    width: 30vw;
+}
