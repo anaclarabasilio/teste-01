@@ -20,9 +20,9 @@ header {
 }
 span {
     color: rgb(247, 112, 0);  
-    margin-left: 47%; 
-    margin-right: 47%;
+    margin: auto;
     border-radius: 5px;
+    width: 50px;
 }
 span:hover {
     background-color: rgb(247, 112, 0);
